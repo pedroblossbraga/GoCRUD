@@ -8,7 +8,7 @@
 - Delete (DELETE)
 
 ## API calls:
--   / home
+-   / 
 ![](images/homepic.jpeg)
 - 	/users -> GET (All Users)
 -	/user/{name}" -> "DELETE
