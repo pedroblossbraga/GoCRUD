@@ -1,6 +1,6 @@
 # Go API 
 
-![](Rest-API.png)
+![](images/Rest-API.png)
 
 ## CRUD operations with GORM
 
