@@ -66,3 +66,5 @@
 - A great tutorial, and main source of study: https://tutorialedge.net/golang/golang-orm-tutorial/
 - Go ORM querie tutorial : https://gorm.io/docs/query.html
 
+## License:
+- MIT
